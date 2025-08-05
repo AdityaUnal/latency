@@ -1,0 +1,13 @@
+name: mercor_takehome
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - fastapi
+  - uvicorn
+  - httpx
+  - pydantic
+  - requests
+  - pip
